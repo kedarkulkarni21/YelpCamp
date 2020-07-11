@@ -53,7 +53,7 @@
 ### Clone or download this repository
 
 ```sh
-git clone https://github.com/lucasweng/yelp-camp.git
+git clone https://github.com/kedarkulkarni21/YelpCamp.git
 ```
 
 ### Install dependencies
